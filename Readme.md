@@ -12,13 +12,13 @@ Photo 1 to Photo 4 has front and back details of the PCB's.
 
 Two videos of the live system are included as Video of CPU Box.mp4 and Keyboard and CPU_1.mp4.
 
-<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/master/CPU Box Photo 1.jpg" width="1088" height="816" />
+<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/main/CPU%20Box%20Photo%201.jpg" width="1088" height="816" />
 
-<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/master/CPU Box Photo 2.jpg" width="1088" height="816" />
+<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/main/CPU%20Box%20Photo%202.jpg" width="1088" height="816" />
 
-<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/master/CPU Box Photo 3.jpg" width="883" height="684" />
+<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/main/CPU%20Box%20Photo%203.jpg" width="883" height="684" />
 
-<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/master/CPU Box Photo 4.jpg" width="980" height="600" />
+<img src="https://github.com/TobiasVanDyk/8088-Midi-Keyboard-Controller/blob/main/CPU%20Box%20Photo%204.jpg" width="980" height="600" />
 
 
 
